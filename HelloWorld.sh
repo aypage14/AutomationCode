@@ -1,4 +1,5 @@
 #!/bin/bash
+#This shell script will loop for 5 iterations and break
 valid=true
 count=1
 while [ $valid ]
