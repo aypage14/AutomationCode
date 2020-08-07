@@ -8,6 +8,8 @@ do
 echo $count
 if [ $count -eq 5 ];
 then
+	#This code is added part of feature -1
+	echo "Priniting the value of count"
 break
 fi
 ((count++))
